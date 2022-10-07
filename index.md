@@ -1,3 +1,5 @@
 # Making a big header
 ## Making a slightly smaller header
-### Russian doll header
+
+#### Step two - Image
+![Best Movie Ever - Castle in the Sky](https://github.com/matthewmecham/introduction-to-github/blob/start-markdown/castle_in_the_sky.webp)
