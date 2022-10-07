@@ -7,3 +7,7 @@
 ```
 System.out.println("Hello World");
 ```
+
+- [x] Start HW6 for 471
+- [x] Be awesome
+- [ ] Finish my scary AI homework
